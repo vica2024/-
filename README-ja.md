@@ -1,19 +1,21 @@
-[中文](./README.md) | English | [日本語](./README-ja.md)
+[中文](./README.md) | [English](./README-en.md) | 日本語
 
-# Daoke - Diamond POS System
-<p align="center"> <img src="https://i.postimg.cc/GB1rGZXp/logo2.png" width="150" /></p> 
+# ダオカ-ダイヤモンドPOSシステム
 <p align="center"> 
-<a href="" target="_blank">Home</a> | 
-<a href="" target="_blank">Documentation</a> | 
-<a href="" target="_blank">Demo</a> | 
-<a href="https://arco.design" target="_blank">Arco Design Official Documentation</a> 
+<img src="https://i.postimg.cc/GB1rGZXp/logo2.png" width="150" /> 
+</p> 
+<p align="center"> 
+<a href="" target="_blank">ホーム</a> | 
+<a href="" target="_blank">ドキュメント</a> | 
+<a href="" target="_blank">デモ</a> | 
+<a href="https://arco.design" target="_blank">Arco Design公式ドキュメント</a> 
 </p>
 
-This is a POS system tailored specifically for offline brand chain stores, adaptable for PC and iPad. When esteemed customers visit your brand store, professional salespeople introduce products, leading to purchase intentions. At this moment, professional salespeople use a specialized iPad POS to share a high-quality and efficient shopping experience with customers. This will undoubtedly enhance your brand image. The system not only provides mainstream POS basic functions and a user-friendly interface but can also be customized according to your brand colors. It is the cornerstone of your enterprise's digitalization, helping to achieve the goals of "online marketing," "online sales," "online service," and "online production."
+これは、オフラインブランドチェーン店舗のために特別に設計されたPOSシステムで、PCとiPadに自動適応します。貴重なお客様があなたのブランド店舗に訪れ、専門の販売員が商品を紹介した後、お客様は購入意欲を持ちます。この時、専門の販売員は専門のiPad POSを使用して、お客様と高品質で効率的なショッピング体験を共有します。これは間違いなく、あなたのブランドイメージを向上させるでしょう。このシステムは、主流のPOS基本機能とユーザーフレンドリーなインターフェースを提供するだけでなく、あなたのブランドカラーに応じてカスタマイズできます。これは、あなたの企業のデジタル化の基盤であり、「マーケティングオンライン」、「販売オンライン」、「サービスオンライン」、「生産オンライン」を実現するためのサポートをします。
 
-Open source is not easy. If you can take a moment to give a little star ⭐, it will be the greatest support and encouragement for me!
+オープンソースは簡単ではありません。もしあなたが少しでも手を動かして⭐スターを付けてくれれば、私にとって最大のサポートと励みになります！
 
-## Project List
+## プロジェクトリスト
 ```
 ├── plugin
 │   ├── arcoResolver.js
@@ -116,35 +118,38 @@ Open source is not easy. If you can take a moment to give a little star ⭐, it 
 ├── vite.config.js
 └── yarn.lock
 ```
-## Installation and Usage
+## 安装インストールと使用方法
 
-- Get the code
+- 依存関係をインストールする
 ```
-git clone https://github.com/vica2024/DAOKE-POS-VUE3.git
+git clone https://github.com/vica2024/DAOKE-POS-VUE3-JA.git
 ```
-- Install dependencies
+- 安装依赖
 ```
-cd DAOKE-POS-VUE3 && yarn install 
+cd DAOKE-POS-VUE3-JA && yarn install 
 ```
-Or
+または
 ```
-cd DAOKE-POS-VUE3 && yarn install
+cd DAOKE-POS-VUE3-JA && yarn install
 ```
-- Run the project
+- プロジェクトを実行する
 ```
 yarn dev
 ```
-- yarn dev
+- ビルドして公開する
 ```
 yarn build
 ```
 
-## Author's Official Account
+## 作者の公式アカウント
 
 [![qrcode-for-gh-bc50bba44e73-258.jpg](https://i.postimg.cc/CKPx13vN/qrcode-for-gh-bc50bba44e73-258.jpg)](https://vicazhuo.tech/daoke-retail)
-<p align="left">Follow for installation tutorials</p>
 
-## Software Screenshots
+<p align="left">
+インストールチュートリアルを受け取るためにフォローしてください
+</p>
+
+## ソフトウェアのスクリーンショット
 
 [![2024-10-12-10-23-48.png](https://i.postimg.cc/nLFckFjZ/2024-10-12-10-23-48.png)](https://vicazhuo.tech/daoke-retail)
 

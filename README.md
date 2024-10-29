@@ -1,4 +1,4 @@
-中文 | [English](./README-en.md)
+中文 | [English](./README-en.md) | [日本語](./README-ja.md)
 
 # 稻客-钻石收银系统
 <p align="center">
@@ -122,15 +122,15 @@
 
 - 获取代码
 ```
-git clone git@gitee.com:vicazhuo/diamond-pos.git
+git clone https://github.com/vica2024/DAOKE-POS-VUE3.git
 ```
 - 安装依赖
 ```
-cd diamond-pos && yarn install 
+cd DAOKE-POS-VUE3 && yarn install 
 ```
 或者
 ```
-cd diamond-pos && yarn install
+cd DAOKE-POS-VUE3 && yarn install
 ```
 - 运行项目
 ```
