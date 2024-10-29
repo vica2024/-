@@ -1,0 +1,23 @@
+{
+  "theme": "dark",
+  "messageCount":0,
+  "colorWeak": false,
+  "navbar": true,
+  "menu": true,
+  "topMenu": false,
+  "hideMenu": false,
+  "menuCollapse": false,
+  "footer": true,
+  "themeColor": "#165DFF",
+  "menuWidth": 89,
+  "globalSettings": false,
+  "projectName": "Diamond POS",
+  "multiTabs": true,
+  "device": "desktop",
+  "tabBar": false,
+  "menuFromServer": false,
+  "serverMenu": [],
+  "modalsState":{
+    "goodsAttrsModal":false
+  }
+}
