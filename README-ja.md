@@ -1,21 +1,21 @@
-中文 | [English](./README-en.md) | [日本語](./README-ja.md)
+[中文](./README.md) | [English](./README-en.md) | 日本語
 
-# 稻客-钻石收银系统
-<p align="center">
-    <img src="https://i.postimg.cc/GB1rGZXp/logo2.png" width="150" />
+# ダオカ-ダイヤモンドPOSシステム
+<p align="center"> 
+<img src="https://i.postimg.cc/GB1rGZXp/logo2.png" width="150" /> 
+</p> 
+<p align="center"> 
+<a href="" target="_blank">ホーム</a> | 
+<a href="" target="_blank">ドキュメント</a> | 
+<a href="https://pos.vicazhuo.tech" target="_blank">デモ</a> | 
+<a href="https://arco.design" target="_blank">Arco Design公式ドキュメント</a> 
 </p>
-<p align="center">
-    <a href="" target="_blank">主页</a> |
-    <a href="" target="_blank">文档</a> | 
-    <a href="" target="_blank">演示</a> |
-    <a href="https://arco.design" target="_blank">Arco Design官方文档</a> 
-</p>
 
-这是一款专门为线下品牌连锁门店量身定制的POS系统，可自适应PC和iPad。当尊贵的顾客光临您的品牌店铺，专业销售员介绍产品后，顾客产生购买意向。此时，专业销售员使用专业iPad POS，与顾客共享高质量、高效率的购物体验。这无疑将提升您的品牌形象。该系统不仅提供主流的POS基本功能和友好的用户界面，还可根据您的品牌色调进行自定义。它是您企业数字化的基石，助力实现"营销在线"、"销售在线"、"服务在线"和"生产在线"的目标。
+これは、オフラインブランドチェーン店舗のために特別に設計されたPOSシステムで、PCとiPadに自動適応します。貴重なお客様があなたのブランド店舗に訪れ、専門の販売員が商品を紹介した後、お客様は購入意欲を持ちます。この時、専門の販売員は専門のiPad POSを使用して、お客様と高品質で効率的なショッピング体験を共有します。これは間違いなく、あなたのブランドイメージを向上させるでしょう。このシステムは、主流のPOS基本機能とユーザーフレンドリーなインターフェースを提供するだけでなく、あなたのブランドカラーに応じてカスタマイズできます。これは、あなたの企業のデジタル化の基盤であり、「マーケティングオンライン」、「販売オンライン」、「サービスオンライン」、「生産オンライン」を実現するためのサポートをします。
 
-开源不易， 如果您能动动您的发财的小手给个小星星⭐star， 将是对我最大的支持和鼓励！
+オープンソースは簡単ではありません。もしあなたが少しでも手を動かして⭐スターを付けてくれれば、私にとって最大のサポートと励みになります！
 
-## 项目清单
+## プロジェクトリスト
 ```
 ├── plugin
 │   ├── arcoResolver.js
@@ -118,35 +118,38 @@
 ├── vite.config.js
 └── yarn.lock
 ```
-## 安装使用
+## 安装インストールと使用方法
 
-- 获取代码
+- 依存関係をインストールする
 ```
-git clone https://github.com/vica2024/DAOKE-POS-VUE3.git
+git clone https://github.com/vica2024/DAOKE-POS-VUE3-JA.git
 ```
 - 安装依赖
 ```
-cd DAOKE-POS-VUE3 && yarn install 
+cd DAOKE-POS-VUE3-JA && yarn install 
 ```
-或者
+または
 ```
-cd DAOKE-POS-VUE3 && yarn install
+cd DAOKE-POS-VUE3-JA && yarn install
 ```
-- 运行项目
+- プロジェクトを実行する
 ```
 yarn dev
 ```
-- 打包发布
+- ビルドして公開する
 ```
 yarn build
 ```
 
-## 作者公众号
+## 作者の公式アカウント
 
 [![qrcode-for-gh-bc50bba44e73-258.jpg](https://i.postimg.cc/CKPx13vN/qrcode-for-gh-bc50bba44e73-258.jpg)](https://vicazhuo.tech/daoke-retail)
- 关注获取安装教程
 
-## 软件截图
+<p align="left">
+インストールチュートリアルを受け取るためにフォローしてください
+</p>
+
+## ソフトウェアのスクリーンショット
 
 [![2024-10-12-10-23-48.png](https://i.postimg.cc/nLFckFjZ/2024-10-12-10-23-48.png)](https://vicazhuo.tech/daoke-retail)
 
